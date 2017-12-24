@@ -1,3 +1,4 @@
 nocontrol.txt
 *.log
 log/
+*.orig
